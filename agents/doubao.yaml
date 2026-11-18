@@ -1,0 +1,7 @@
+interface:
+  display_name: "双栏批注论文"
+  short_description: "把英文论文做成双语对照＋逐段批注的单页 HTML"
+  default_prompt: "使用 $bilingual-annotated-paper 帮我完成……"
+
+policy:
+  allow_implicit_invocation: true
